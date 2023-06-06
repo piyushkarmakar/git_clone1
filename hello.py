@@ -1,3 +1,4 @@
 print("Hello wordld")
 print("Hii")
-print("fghjkl")
+a=[1,2,3,4]
+print(a)
